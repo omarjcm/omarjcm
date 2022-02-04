@@ -1,4 +1,13 @@
-### Hi there 👋
+<br />
+
+###  Hi there, I'm Guillermo Pizarro :wave:
+
+## I'm Coder
+
+- :fire: I am currently curious about Machine Learning Algorithms. :smiley:
+- :school_satchel: I'm currently doing Data Engineering and Data Science :loop:
+- :rocket: 2022 Goals: Get more experience aboud Data Science Projects :soon:
+- :raised_hands: Fun fact: I love my family :zap:
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -8,18 +17,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarjcm&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarjcm&theme=github_dark)
 
-<br />
-<!--
-**omarjcm/omarjcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Readme.md template from: ![@evandycke](https://github.com/evandycke)
