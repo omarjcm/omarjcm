@@ -2,7 +2,8 @@
 
 ![omarjcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjcm&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjcm&layout=compact)](https://github.com/omarjcm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjcm&hide=html)](https://github.com/omarjcm/github-readme-stats)
+
 
 
 <!--
