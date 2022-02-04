@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![omarjcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjcm&show_icons=true&theme=radical)
+![omarjcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjcm&show_icons=true&theme=vue)
 
 
 <!--
