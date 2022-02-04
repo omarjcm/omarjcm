@@ -1,5 +1,3 @@
-<br />
-
 ###  Hi there, I'm Guillermo Pizarro :wave:
 
 ## I'm Coder
